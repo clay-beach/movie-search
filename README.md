@@ -1,5 +1,5 @@
 # movie-search
-Simple application to query the themoviedb.org api and render movie details and reviews. 
+Simple application to query the themoviedb.org api and render movie details and reviews using vanilla js. 
 
 
 
